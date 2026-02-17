@@ -1,7 +1,5 @@
-(function () {
-"use strict";
+window.ALL_CARDS = {};
 
-window.ALL_CARDS = window.ALL_CARDS || {};
 
 
 
@@ -11813,12 +11811,6 @@ window.ALL_CARDS.speech = [
 	
 	
 	
-	
-	
-	
-	
-	
-	
 ];
 
 window.ALL_CARDS.social = [
@@ -13253,6 +13245,5 @@ window.ALL_CARDS.nonLiteral = [
 ];
 
 
-	
-})();
+
 
