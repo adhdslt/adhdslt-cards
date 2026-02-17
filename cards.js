@@ -1,3 +1,6 @@
+alert("CARDS JS IS RUNNING");
+
+
 window.ALL_CARDS = {};
 
 
